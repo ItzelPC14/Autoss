@@ -18,7 +18,7 @@ public class Principal {
         carrera[4]=quinto;
 
         for (Auto a:carrera){
-            System.out.println("------------------");
+            System.out.println("**********");
             System.out.println(a.toString());
         }
 
